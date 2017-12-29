@@ -1,0 +1,20 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-09-20T09:02:28</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.3.0.0</property>
+    <property name="modified">2017-09-21T11:53:15</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="SELECTION_BACKGROUND" value="831e5a" />
+  </colors>
+  <attributes>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="BACKGROUND" value="45852a" />
+        <option name="ERROR_STRIPE_COLOR" value="45852a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
