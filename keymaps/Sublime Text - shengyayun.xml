@@ -1,0 +1,17 @@
+<keymap version="1" name="Sublime Text - shengyayun" parent="Sublime Text (Mac OS X)">
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
+  <action id="SearchEverywhere.PrevTab" />
+</keymap>
