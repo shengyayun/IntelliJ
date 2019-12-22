@@ -1,5 +1,7 @@
 <keymap version="1" name="Sublime Text - shengyayun" parent="Sublime Text (Mac OS X)">
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorDecreaseFontSize" />
+  <action id="EditorIncreaseFontSize" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
