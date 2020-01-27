@@ -1,4 +1,4 @@
-<keymap version="1" name="Sublime Text - shengyayun" parent="Sublime Text (Mac OS X)">
+<keymap version="1" name="Sublime Text - shengyayun">
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorDecreaseFontSize" />
   <action id="EditorIncreaseFontSize" />
