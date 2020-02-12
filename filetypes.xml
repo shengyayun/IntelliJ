@@ -4,7 +4,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pri" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="truststore" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
