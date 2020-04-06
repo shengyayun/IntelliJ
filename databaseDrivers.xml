@@ -39,7 +39,7 @@
     </driver>
     <driver id="mysql.8">
       <url-template name="default" template="jdbc:mysql://127.0.0.1/untitled_db?user=root,password=" />
-      <artifact name="MySQL Connector/J 8" use="true" />
+      <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="format-sources-on-sync" value="true" />
