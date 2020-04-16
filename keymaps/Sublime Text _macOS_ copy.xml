@@ -1,1 +1,9 @@
-<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)" />
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="EditorPasteSimple" />
+</keymap>
