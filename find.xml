@@ -6,7 +6,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
     <mask>*.php4</mask>
@@ -16,5 +15,6 @@
     <mask>*.module</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
