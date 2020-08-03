@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.factorypath;.git;.hg;.idea;.project;.settings;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="pri" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="pri" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="truststore" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
