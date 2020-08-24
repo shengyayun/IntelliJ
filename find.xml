@@ -12,7 +12,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
