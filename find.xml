@@ -2,10 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="default" />
     <option name="defaultScopeName" value="default" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="default" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
