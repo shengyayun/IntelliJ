@@ -2,9 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
+    <mask>*.css</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
     <mask>*.php4</mask>
@@ -12,13 +12,9 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
-    <mask>Page.class.php</mask>
-    <mask>*.php</mask>
-    <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
+    <mask>Page.class.php</mask>
+    <mask>*.html</mask>
+    <mask>*.php</mask>
   </component>
 </application>
