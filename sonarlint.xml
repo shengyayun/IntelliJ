@@ -9,6 +9,7 @@
         </entry>
       </map>
     </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="java:S1165" />
     </rules>
