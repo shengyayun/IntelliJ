@@ -7,10 +7,16 @@
             <Rule active="false" key="java:S1165" />
           </value>
         </entry>
+        <entry key="java:S125">
+          <value>
+            <Rule active="false" key="java:S125" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
+      <Rule active="false" key="java:S125" />
       <Rule active="false" key="java:S1165" />
     </rules>
   </component>
