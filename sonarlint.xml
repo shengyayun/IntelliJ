@@ -12,6 +12,11 @@
             <Rule active="false" key="java:S125" />
           </value>
         </entry>
+        <entry key="java:S135">
+          <value>
+            <Rule active="false" key="java:S135" />
+          </value>
+        </entry>
         <entry key="java:S3776">
           <value>
             <Rule active="false" key="java:S3776" />
@@ -22,6 +27,7 @@
     <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="java:S125" />
+      <Rule active="false" key="java:S135" />
       <Rule active="false" key="java:S1165" />
       <Rule active="false" key="java:S3776" />
     </rules>
