@@ -1,0 +1,47 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S1128">
+          <value>
+            <Rule active="false" key="java:S1128" />
+          </value>
+        </entry>
+        <entry key="java:S1165">
+          <value>
+            <Rule active="false" key="java:S1165" />
+          </value>
+        </entry>
+        <entry key="java:S125">
+          <value>
+            <Rule active="false" key="java:S125" />
+          </value>
+        </entry>
+        <entry key="java:S135">
+          <value>
+            <Rule active="false" key="java:S135" />
+          </value>
+        </entry>
+        <entry key="java:S3740">
+          <value>
+            <Rule active="false" key="java:S3740" />
+          </value>
+        </entry>
+        <entry key="java:S3776">
+          <value>
+            <Rule active="false" key="java:S3776" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <rules>
+      <Rule active="false" key="java:S3740" />
+      <Rule active="false" key="java:S125" />
+      <Rule active="false" key="java:S1165" />
+      <Rule active="false" key="java:S135" />
+      <Rule active="false" key="java:S3776" />
+      <Rule active="false" key="java:S1128" />
+    </rules>
+  </component>
+</application>
