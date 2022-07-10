@@ -17,7 +17,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
@@ -29,5 +28,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
