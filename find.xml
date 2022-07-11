@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="New changelist" />
     <option name="defaultScopeName" value="New changelist" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="New changelist" />
     <mask>Page.class.php</mask>
     <mask>*.jsp</mask>
