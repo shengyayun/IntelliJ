@@ -7,6 +7,7 @@
       <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="plantml" type="PLAIN_TEXT" />
       <mapping ext="pipeline" type="PLAIN_TEXT" />
+      <mapping ext="kotlin_module" type="PLAIN_TEXT" />
       <mapping ext="pri" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
