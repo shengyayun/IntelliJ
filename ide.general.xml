@@ -9,5 +9,13 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
 </application>
